@@ -41,7 +41,7 @@ fun solutionL(arr: IntArray): Int {
 
 fun lcm(a: Int, b: Int) = (a * b) / gcd(a, b)
 
-fun gcd(a: Int, b: Int): Int{ // 최대공약수 구하기
-    return if (b == 0) a
-    else gcd(b, a % b)
-}
+//fun gcd(a: Int, b: Int): Int{ // 최대공약수 구하기
+//    return if (b == 0) a
+//    else gcd(b, a % b)
+//}
