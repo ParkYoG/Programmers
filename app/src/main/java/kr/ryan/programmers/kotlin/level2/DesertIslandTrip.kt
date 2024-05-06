@@ -3,9 +3,9 @@ package kr.ryan.programmers.kotlin.level2
 /**
  * Programmers
  * Class: DesertIslandTrip
- * Created by pyg10.
+ * Created by pyg941007.
  * Created On 2024-05-06.
- * Description:
+ * Description: https://school.programmers.co.kr/learn/courses/30/lessons/154540
  */
 
 fun main(){
