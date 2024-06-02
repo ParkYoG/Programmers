@@ -19,7 +19,7 @@ fun main(){
 }
 
 fun solution(n: Int, k: Int, enemy: IntArray): Int {
-    var answer: Int = 0
+    var answer = 0
 
     val enemyQueue: PriorityQueue<Int> = PriorityQueue(Collections.reverseOrder())
 
